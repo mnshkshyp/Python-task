@@ -1,19 +1,15 @@
 # Python Assignment
 
-This repository contains two Python scripts:
+This repository contains two Python scripts completed as part of the assignment.
 
 ## Task 1
-Task1.py does [Takes two numbers as input from the uer and performs the basic mathematical operations on these two numbers:
-o	Addition
-o	Subtraction
-o	Multiplication
-o	Division
-].
+Task1.py calculates the area of a triangle.  
 
 ## Task 2
-Task2.py does [Takes user's first name and last name as input,
-Concatenates the first name and last name into a full name and
-prints a personalized greeting message using the full name.
-].
+Task2.py prints a personalized greeting message.  
 
 ### How to run
+```bash
+python Task1.py
+python Task2.py
+
